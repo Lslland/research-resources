@@ -176,6 +176,14 @@
 1. Hoper-J/AI-Guide-and-Demos-zh_CN：一份入门AI/LLM大模型的逐步指南，包含教程和演示代码，带你从API走进本地大模型部署和微调，https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN
 2. Hugging Face Transformers：一站式 NLP 工具库，含 BERT、GPT 等模型实现及教程，https://github.com/huggingface/transformers
 3. 《大语言模型》经典图书，由作者赵鑫，李军毅，周昆，唐天一，文继荣 等作者编写，全面介绍了大型语言模型的技术背景、发展过程、关键技术、资源、预训练方法、微调与对齐技术、使用方法、评测以及应用等多个方面。https://llmbook-zh.github.io/
+4. DeepSeek系列论文讲解：https://www.bilibili.com/video/BV14dPfe5EJD/?spm_id_from=333.1387.upload.video_card.click&vd_source=9fab6d3875be34d7367f7f239e37df50
+5. 多智能体框架介绍：https://www.bilibili.com/video/BV1BFLozCEHx/?spm_id_from=333.1387.homepage.video_card.click&vd_source=9fab6d3875be34d7367f7f239e37df50
+
+#### 3.1.3大模型文献
+1. Hu E J, Shen Y, Wallis P, et al. Lora: Low-rank adaptation of large language models[J]. ICLR, 2022, 1(2): 3.
+2. Vaswani A, Shazeer N, Parmar N, et al. Attention is all you need[J]. Advances in neural information processing systems, 2017, 30.
+3. Zhao J, Zhang Z, Chen B, et al. Galore: Memory-efficient llm training by gradient low-rank projection[J]. arXiv preprint arXiv:2403.03507, 2024.
+4. Yang Y, Zhen K, Banijamal E, et al. AdaZeta: Adaptive zeroth-order tensor-train adaption for memory-efficient large language models fine-tuning[J]. arXiv preprint arXiv:2406.18060, 2024.
 
 ### 3.2 实验室相关成果
 
